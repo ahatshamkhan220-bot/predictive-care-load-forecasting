@@ -78,7 +78,7 @@ Capacity risk visualization
 
 Model comparison
 
-🔗 Live Dashboard: (Paste your Streamlit link here)
+🔗 Live Dashboard
 
 Research Contribution
 
